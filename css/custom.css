@@ -1,0 +1,202 @@
+body {
+  /*font-family: "Futura", "Trebuchet MS", "Arial", "sans-serif";*/ }
+
+.has-docked-nav {
+  top: 0;
+  z-index: 100;
+  position: fixed;
+}
+
+h5, h6 {
+  margin-bottom: 0;
+}
+
+li {
+  margin-bottom: 0;
+}
+
+img.carousel-next {
+  position: absolute; right: 8px; bottom: 8px;
+}
+
+p {
+  margin-bottom: 0;
+}
+
+a { text-decoration: none; color: inherit; }
+a:hover { color: #3B699C; font-weight: bold; }
+a.boring { color: #3B699C; }
+a.boring:hover { text-decoration: underline; }
+
+.foreground-color {
+  background: white;
+}
+
+.background-color {
+  background: antiquewhite;
+}
+
+.nav-table { display: table; }
+.nav-table > div { display: table-row; }
+.nav-table > div > div { display: table-cell; width: 50%; padding-top: 8%; padding-bottom: 8%; }
+.nav-table > div > div:nth-child(1) { text-align: right; padding-right: 10px; }
+.nav-table > div > div:nth-child(2) { text-aligh: left; padding-left: 10px; }
+.nav-table > div:hover > div:nth-child(1) { color: #3B699C; font-weight: bold; border-right: 2px solid #3B699C !important; }
+.nav-table > div:hover > div:nth-child(2) { color: #3B699C; font-weight: bold; border-left: 1px solid #3B699C !important; }
+.nav-table > div:nth-child(1) > div:nth-child(1) { border-right: 2px solid #CEC8C7; }
+.nav-table > div:nth-child(2) > div:nth-child(1) { border-right: 2px solid #9E918E; }
+.nav-table > div:nth-child(3) > div:nth-child(1) { border-right: 2px solid #6E5B56; }
+.nav-table > div:nth-child(4) > div:nth-child(1) { border-right: 2px solid #9E918E; }
+.nav-table > div:nth-child(5) > div:nth-child(1) { border-right: 2px solid #CEC8C7; }
+.nav-table > div:nth-child(1) > div:nth-child(2) { border-left: 1px solid #CEC8C7; }
+.nav-table > div:nth-child(2) > div:nth-child(2) { border-left: 1px solid #9E918E; }
+.nav-table > div:nth-child(3) > div:nth-child(2) { border-left: 1px solid #6E5B56; }
+.nav-table > div:nth-child(4) > div:nth-child(2) { border-left: 1px solid #9E918E; }
+.nav-table > div:nth-child(5) > div:nth-child(2) { border-left: 1px solid #CEC8C7; }
+
+
+.container {
+  max-width: 800px; }
+
+.box                      { position: relative; width: 100%; }
+.box:before               { content: ""; display: block; padding-top: 100%; }
+
+.box.one-by-two:before    { content: ""; display: block; padding-top: 200%; }
+.box.two-by-three:before  { content: ""; display: block; padding-top: 150%; }
+.box.three-by-four:before { content: ""; display: block; padding-top: 133.33333%; }
+.box.five-by-six:before   { content: ""; display: block; padding-top: 120%; }
+.box.one-by-one:before    { content: ""; display: block; padding-top: 100%; }
+.box.six-by-five:before   { content: ""; display: block; padding-top: 83.33333%; }
+.box.four-by-three:before { content: ""; display: block; padding-top: 75%; }
+.box.three-by-two:before  { content: ""; display: block; padding-top: 66.66666%;}
+.box.two-by-one:before    { content: ""; display: block; padding-top: 50%;}
+
+.absolute-fill {
+  position:  absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0; }
+
+.text-center {
+  text-align: center; }
+
+#our-story-1 {
+  background-image: url(../images/FULL_OUR-STORY_1.jpg);
+  background-repeat: no-repeat;
+  background-size: 110%;
+  background-position: 75% 40%; }
+
+#our-story-2 {
+  background-image: url(../images/FULL_OUR-STORY_2.jpg);
+  background-repeat: no-repeat;
+  background-size: 200%;
+  background-position: 30% 20%; }
+
+#our-story-3 {
+  background-image: url(../images/FULL_OUR-STORY_3.jpg);
+  background-repeat: no-repeat;
+  background-size: 105%;
+  background-position: 15% 45% }
+
+#our-story-4 {
+  background-image: url(../images/FULL_OUR-STORY_4.jpg);
+  background-repeat: no-repeat;
+  background-size: 200% auto;
+  background-position: 24% 0px; }
+
+#our-story-5 {
+  background-image: url(../images/FULL_OUR-STORY_5.jpg);
+  background-repeat: no-repeat;
+  background-size: 240% auto;
+  background-position: 61% 53%; }
+
+#our-story-6 {
+  background-image: url(../images/FULL_OUR-STORY_6.jpg);
+  background-repeat: no-repeat;
+  background-size: 180% auto;
+  background-position: 48% 91%; }
+
+#our-story-7 {
+  background-image: url(../images/FULL_OUR-STORY_7.jpg);
+  background-repeat: no-repeat;
+  background-size: 178% auto;
+  background-position: 51% 0; }
+
+#our-story-bride {
+  background-image: url(../images/FULL_OUR-STORY_BRIDE.jpg);
+  background-repeat: no-repeat;
+  background-size: 111% auto;
+  background-position: 82% 58%; }
+
+#our-story-groom {
+  background-image: url(../images/FULL_OUR-STORY_GROOM.jpg);
+  background-repeat: no-repeat;
+  background-size: 113% auto;
+  background-position: 86% 11%; }
+
+#wedding-day-welcome {
+  background-image: url(../images/WEDDING_DAY_001_WELCOME.jpg);
+  background-repeat: no-repeat;
+  background-size: 105% auto;
+  background-position: 50% 50%; }
+
+#wedding-day-ceremony {
+  background-image: url(../images/WEDDING_DAY_002_CEREMONY.jpg);
+  background-repeat: no-repeat;
+  background-size: 105% auto;
+  background-position: 50% 50%; }
+
+#wedding-day-cocktail {
+  background-image: url(../images/WEDDING_DAY_003_COCKTAIL.jpg);
+  background-repeat: no-repeat;
+  background-size: 105% auto;
+  background-position: 50% 50%; }
+
+#wedding-day-reception {
+  background-image: url(../images/WEDDING_DAY_004_RECEPTION.jpg);
+  background-repeat: no-repeat;
+  background-size: 105% auto;
+  background-position: 50% 50%; }
+
+#wedding-day-party {
+  background-image: url(../images/WEDDING_DAY_005_AFTER_PARTY.jpg);
+  background-repeat: no-repeat;
+  background-size: 105% auto;
+  background-position: 50% 50%; }
+
+#your-stay-stay {
+  background-image: url(../images/YOUR_STAY_004_STAY.jpg);
+  background-repeat: no-repeat;
+  background-size: 105% auto;
+  background-position: 50% 50%; }
+#your-stay-eat {
+  background-image: url(../images/YOUR_STAY_001_EAT.jpg);
+  background-repeat: no-repeat;
+  background-size: 105% auto;
+  background-position: 50% 50%; }
+#your-stay-visit {
+  background-image: url(../images/YOUR_STAY_005_VISIT.jpg);
+  background-repeat: no-repeat;
+  background-size: 105% auto;
+  background-position: 50% 50%; }
+#your-stay-shop {
+  background-image: url(../images/YOUR_STAY_003_SHOP.jpg);
+  background-repeat: no-repeat;
+  background-size: 105% auto;
+  background-position: 50% 50%; }
+#your-stay-explore {
+  background-image: url(../images/YOUR_STAY_002_EXPLORE.jpg);
+  background-repeat: no-repeat;
+  background-size: 105% auto;
+  background-position: 50% 50%; }
+
+#our-story p { padding-right: 15px; }
+
+@media (min-width: 680px) {
+  .hide-on-desktop { display: none !important; }
+}
+
+@media (max-width: 679px) {
+  .hide-on-mobile { display: none !important; }
+}
