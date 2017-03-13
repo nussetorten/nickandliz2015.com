@@ -1,0 +1,64 @@
+<div>
+  <div id="your-stay-accomodations" class="offset-by-one ten columns">
+    <h5>Accomodations</h5>
+    <h7>HAMPTON INN</h7>
+    We’ve blocked off 11 rooms for October 10 thru October 11. Located 6 miles South on Rt. 611, shuttle transportation to and from Aldie Mansion will be provided. http://bit.ly/1ctXEmk
+    <h7>HARGRAVE HOUSE B&B</h7>
+    Conveniently located in the heart of downtown Doylestown, this historic Bed & Breakfast is just steps from our favorite shops and restaurants. Limited rooms, reserve ASAP! http://hargravehouse.net
+  </div>
+</div>
+
+your-stay-eat-and-drink
+
+<h5>EAT</h5>
+<ul>
+  <li><a href="www.momsdoylestown.com">MAXWELL’S ON MAIN</a>: Craft Food. Craft Beer.</li>
+  <li><a href="www.tjsmiths.com">TJ SMITH’S</a>: Restuarant & Sports Bar.</li>
+  <li><a href="www.crosscultureindiancuisine.net">CROSS CULTURE</a>: Fine Indian Cuisine.</li>
+  <li><a href="www.julesthincrust.com">JULE’S THIN CRUST</a>: Artisanal Gourmet Pizza.</li>
+</ul>
+
+<h5>DRINK</h5>
+<ul>
+  <li><a href="www.nonnoscafe.com">NONNO’S ITALIAN COFFEE</a>: Café & Gelateria.</li>
+  <li><a href="www.zendencoffeeshop.com">THE ZEN DEN</a> A funky chic coffee boutique!</li>
+  <li><a href="www.paganinidoylestown.com">PEGS WINE BAR</a>: Self Explanitory.</li>
+  <li><a href="www.pucklive.com">PUCK</a> Food. Drinks. Live Music.</li>
+</ul>
+
+<div>
+  <div id="your-stay-visit" class="offset-by-one ten columns">
+    <h5>VISIT</h5>
+    <h7>MERCER MUSEUM</h7>
+    Doylestown’s famous cement castle housing Henry Mercer’s extensive treasure trove of pre-Industrial objects.
+    <h7>FONTHILL CASTLE & MORAVIAN TILEWORKS</h7>
+    Henry Mercer’s laberynthian home and artisanal tile workshop.
+    <h7>COUNTY THEATER</h7>
+    This 1938 theater shows independent and classic films right in the heart of Doylestown. Head next door for Gelato after the show!
+    <h7>MICHENER MUSEUM</h7>
+    Once the Bucks County Jail, this art museum is now home to an ever-changing roster of exhibitions.
+  </div>
+</div>
+
+<div>
+  <div id="your-stay-shop" class="offset-by-one ten columns">
+    <h5>SHOP</h5>
+    <h6>DOYLESTOWN PROPER</h6>
+    <p>Bookshops, Vintage accessories, clothing boutiques, toys, and more! It’s all here in Doyelstown.</p>
+    <h6>PEDDLER’S VILLAGE</h6>
+    <p>Your one-stop destination for artisanal and designer everything. Take a ride on the historic carousel, or a real horse-drawn carraige!</p>
+    <h6>NEW HOPE & LAMBERTVILLE</h6>
+    <p>Two towns, a million experiences, one amazing weekend! Get your hippie on in off-beat New Hope, then stroll across the bridge to old-world refinery in Lambertville, New Jersey.</p>
+  </div>
+</div>
+
+your-stay-explore
+
+PEACE VALLEY PARK & LAKE GALENA
+The lake where Nick proposed to Liz! Have a picnic in the meadow, take a walk on this 6-mile loop, hike the trails, rent a boat, or visit the nature center!
+
+DELAWARE CANAL
+Minutes from Peddler’s Village, New Hope, abnd Lambertville, the canal and it’s walking paths provide views of the Delaware and riverside towns.
+0 New
+Reply
+
